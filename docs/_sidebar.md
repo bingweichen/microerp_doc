@@ -26,3 +26,6 @@
     * [打印](pages/打印.md)
 
 * [常见问题答疑](pages/常见问题答疑.md)
+
+* [常见问题](not_use/import_sku.md)
+
