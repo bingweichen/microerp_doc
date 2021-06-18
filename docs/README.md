@@ -1,5 +1,5 @@
 # 极简进销存是什么?
-极简进销存，一款纯粹简约的进销存软件，适用于个人商家，集采购、销售、库存、业绩分析于一体。
+极简进销存，一款纯粹简约的进销存软件。适用于个人商家，并集采购、销售、库存、业绩分析于一体。
 
 ![avatar](../_media/screenshot/工作台.png)
 
@@ -7,6 +7,9 @@
 - 力求极简，操作简单流畅，数据一目了然
 - 多端使用，数据同步在云端，保证数据不丢失
 - 智能决策，帮助用户使用数据进行决策
+
+[快速开始](pages/快速开始.md)
+
 
 ### 相关链接
 - [极简进销存：官网 http://www.jxcjxc.com](http://www.jxcjxc.com)
@@ -18,7 +21,22 @@
 
 
 
+
+
+
 <!--
+
+ 
+ 
+<iframe  
+ height=850 
+ width=90% 
+ src="https://www.zenflowchart.com/docs/view/9RO37N1aMj1LmbWmpnyx"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+
+
 # 极简进销存用户指南
 
 ## 概况
