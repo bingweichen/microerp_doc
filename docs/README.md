@@ -20,5 +20,7 @@
 - [邮箱 bingwei.chen11@gmail.com](bingwei.chen11@gmail.com)
 - [掘金系列文章](https://juejin.cn/user/2735240659599783/posts)
 - 私人微信：BingweiChen
+- qq群：689803525
 
+![avatar](../_media/screenshot/qq群.jpeg ':size=200x230')
 
